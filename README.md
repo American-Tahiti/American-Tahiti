@@ -2,7 +2,7 @@
 My name is Tahiti, and I'm currently working on my first coding demo project. I'm learning HTML5, CSS and JavaScript.
 I'm having a great time with this new adventure. I use SoloLearn and am also a student in Code Louisville. Isn't that exciting?
 I'm looking to build a personal website and collaborate on app development. I have a couple of big ideas for apps. I just need to flesh out these ideas.
-I'm looking for help with the basics. I'm completely new to all this.
+I'm looking for help with the basics. I'm completely new to all of this.
 #### Ask me about: 
 *Basic HTML
 *Spanish language

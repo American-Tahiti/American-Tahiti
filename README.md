@@ -9,12 +9,14 @@ I'm looking for help with the basics. I'm completely new to all of this.
 * English as a second laguage
 * anything pharmacy related
 * investing and personal finance
-You can reach me by e-mail at TahitiCastillo@gmail.com
+
 ##### Fun facts: 
 - I first studied HTML around 1994 as an undergrad student. I didn't pursue it any further than one semester, but probably should have.  
 - I'm looking for a career change. I strongly dislike pharmacy; I landed there when my health insurance sales position was outsourced, hence I got transferred.
 - No interesting backstory behind my name. Just "Tahiti" like the name of a random country/island in French Polynesia. It fits. As an introvert, I'm kind of an island.
 - I love world languages. I'm bilingual (Spanish/English) and also study French, Portuguese and Mandarin. I dabble in Arabic, Russian and Hindi.
+
+###### You can reach me by e-mail at TahitiCastillo@gmail.com
 <!--
 **American-Tahiti/American-Tahiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

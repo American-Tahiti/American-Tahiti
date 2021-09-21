@@ -4,7 +4,7 @@ I'm having a great time with this new adventure. I use SoloLearn and am also a s
 I'm looking to build a personal website and collaborate on app development. I have a couple of big ideas for apps. I just need to flesh out these ideas.
 I'm looking for help with the basics. I'm completely new to all of this.
 #### Ask me about: 
-* Basic HTML
+* basic HTML
 * Spanish language
 * English as a second laguage
 * anything pharmacy related

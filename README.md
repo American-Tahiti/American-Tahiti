@@ -6,12 +6,12 @@ Once I've completed my first couple of demo projects, I'll be looking for help w
 #### Ask me about: 
 * basic HTML
 * Spanish language
-* English as a second laguage and language learning in general
+* English as a second language and language learning in general
 * anything pharmacy related
 * investing and personal finance
 ##### Fun facts: 
 - I first studied HTML many years ago while an undergrad student. I didn't pursue it any further than one semester, but I'm grateful that the seed was planted, so to speak. 
--My overarching vocation is communication, which manifests as compulsion toward creative writing and foreign language learning & instruction. As with the discipline of communication, the facets of front-end development that most resonate with me are the ideation, process improvement and problem-solving aspects. 
+- My overarching vocation is communication, which manifests as compulsion toward creative writing and foreign language learning & instruction. As with the discipline of communication, the facets of front-end development that most resonate with me are the ideation, process improvement and problem-solving aspects. 
 - I'm looking for a career change. I landed in Pharmacy when my department (sales) was relocated, the company reorganized and I thence got transferred to a completely different section and role. Although I've learned a lot about pharmacy and the healthcare industry over the years, it is clearly not my calling. My education and employment background also includes Communication and Education. 
 - I am passionate about world languages. I'm bilingual (self-taught Spanish) and also routinely study French, Portuguese and Mandarin. I dabble in Arabic, Russian and Hindi.
 - There is no interesting backstory behind my name, although I get asked often. Just "Tahiti" like the name of a country/island in French Polynesia that I've yet to visit but that is somewhere around #10 on my bucket list of about 30 destinations. As an introvert, I'm something of an "island", so the name fits. Names should be meaningful; wouldn't you agree?

@@ -1,10 +1,23 @@
-div {
+body {
     background-color: black;
+    color: blanchedalmond;
 }
 h1 {color:gold;
 }
 font-family: 'Scheherazade New', serif;{
-    
+
+}
+.flex-parent {
+    display: flex;
+    border: solid 3px seagreen;
+    .flex-item {
+        border: 3px 3px 3px 3px;
+        padding: 35px;
+        display: flex;
+        flex-direction: row;
+        align-items: right;
+        justify-content: space-between;
+    }
 }
 .img fit flush {
 
@@ -28,10 +41,5 @@ font-family: 'Scheherazade New', serif;{
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-
-}
-p {
-
-color:blanchedalmond;
 
 }

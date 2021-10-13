@@ -6,7 +6,7 @@
     height: 50vh;
     margin: 0 auto;
     background-color:blue;
-    border-radius: 1%;
+    border-radius: 20px;
     box-shadow: 5px 5px 5px 5px blue;
 }
 .hero-main > h2 {
